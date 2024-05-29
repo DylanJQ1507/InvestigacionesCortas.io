@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    margin-top: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:20px;
+}
+
+.Usabilidad {
+
+    background-color: #000a;
+    border-style: solid;
+    border-width: 0;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: aliceblue;
+    margin: auto;
+}
+
+.usaH {
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOsfD4N0Jp-Cr0F0tuJ81kOsBO6hNtuKnugg&s);
+    margin: 0;
+    padding-top: 50px;
+    height: 110px;
+
+    background-position: top;
+    background-attachment: fixed;
+}
+
+.Headr {
+
+    background: linear-gradient(to top, transparent, 30%, blue);
+    padding-left: 120px;
+    display: flex;
+    right: 0;
+    left: 0;
+    border-style: solid;
+    border-width: 12px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgb(241, 223, 223);
+    box-shadow: 0 0 40px 0 black;
+}
+
+
+
+    
+
+.box{
+    
+    width: 100% ; 
+   height: 100px;
+   margin: 20px;
+   margin: 0;
+   background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOsfD4N0Jp-Cr0F0tuJ81kOsBO6hNtuKnugg&s); ;
+   
+background-position: top;
+background-attachment: fixed;
+
+}
+.Opciones {
+    padding-top: 30px;
+    display: flex;
+    margin: 0;
+
+}
+
+.Navegacion {
+    padding-top: 30px;
+    display: flex;
+    margin: 0;
+    background-color: #ffc340;
+
+}
+.a{
+    text-decoration:underline;
+    color: blue;
+}
+.Pie {
+    text-align: center;
+    margin-top: 100%;
+}
+
+li {
+    padding-left: 100px;
+    padding-right: 100px;
+    list-style: none;
+    padding-bottom: 30px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
