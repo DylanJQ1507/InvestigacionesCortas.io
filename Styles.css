@@ -3,8 +3,27 @@ body {
     margin-top: 0;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size:20px;
+    color: rgb(78, 76, 76)
 }
-
+.contenido{
+    font-size: 16px;
+    padding: 10px 20px;
+    text-align: justify;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.container{
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-left: 100px;
+    margin-top: 50px;
+    background: rgb(87, 165, 238);
+    padding: 20px 10px;
+    box-shadow: 0px 0px 45px #0007;
+    border-radius: 8px;
+    display: inline-block;
+}
 .Usabilidad {
 
     background-color: #000a;
@@ -13,7 +32,12 @@ body {
     border-radius: 10px;
     padding-top: 10px;
 }
-
+h2{
+    text-align: center;
+}
+p{
+    margin-left: 20px;
+}
 h1 {
     font-family: sans-serif;
     color: aliceblue;
@@ -45,7 +69,13 @@ h1 {
     border-color: rgb(241, 223, 223);
     box-shadow: 0 0 40px 0 black;
 }
-
+.Quees{
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-left-style: solid;
+    border-color: darkgray;
+}
 
 
     
@@ -69,10 +99,11 @@ background-attachment: fixed;
 
 }
 
-.Navegacion {
+.Navegacion  {
     padding-top: 30px;
     display: flex;
     margin: 0;
+    
     background-color: #ffc340;
 
 }
